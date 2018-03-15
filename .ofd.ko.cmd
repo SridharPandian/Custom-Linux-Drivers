@@ -1,0 +1,1 @@
+cmd_/home/sridhar/Desktop/DriverProject/ofd.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sridhar/Desktop/DriverProject/ofd.ko /home/sridhar/Desktop/DriverProject/ofd.o /home/sridhar/Desktop/DriverProject/ofd.mod.o ;  true
