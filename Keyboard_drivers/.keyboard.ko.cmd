@@ -1,0 +1,1 @@
+cmd_/home/sridhar/Desktop/PersonalLinuxDrivers/Keyboard_drivers/keyboard.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sridhar/Desktop/PersonalLinuxDrivers/Keyboard_drivers/keyboard.ko /home/sridhar/Desktop/PersonalLinuxDrivers/Keyboard_drivers/keyboard.o /home/sridhar/Desktop/PersonalLinuxDrivers/Keyboard_drivers/keyboard.mod.o ;  true

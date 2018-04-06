@@ -1,0 +1,1 @@
+cmd_/home/sridhar/Desktop/PersonalLinuxDrivers/UsbDrivers/USB-pendrive.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sridhar/Desktop/PersonalLinuxDrivers/UsbDrivers/USB-pendrive.ko /home/sridhar/Desktop/PersonalLinuxDrivers/UsbDrivers/USB-pendrive.o /home/sridhar/Desktop/PersonalLinuxDrivers/UsbDrivers/USB-pendrive.mod.o ;  true
